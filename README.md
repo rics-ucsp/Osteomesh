@@ -1,5 +1,5 @@
 # Osteomesh
-![Osteomesh](https://raw.githubusercontent.com/rics-ucsp/Osteomesh/master/screenshots/osteomesh_mainview.png)
+![Osteomesh](https://raw.githubusercontent.com/rics-ucsp/Osteomesh/jcduenas_initial/screenshots/osteomesh_mainview.png)
 
 # Description
 Osteomesh is a desktop application for diagnosing osteoporosis in 3D CT Images.
@@ -15,7 +15,7 @@ Osteomesh is a desktop application for diagnosing osteoporosis in 3D CT Images.
 
 Osteomesh requires a full install of [Paraview](https://www.paraview.org/) in order to build.
 
-**_Shared Libraries_**: Add the Paraview libraries directory to the PATH (Windows) or LD_LIBRARY_PATH (Linux) in order to run. 
+**_Shared Libraries_**: Add the Paraview libraries directory to the PATH (Windows) or LD_LIBRARY_PATH (Linux) in order to run.
 
 To build and run:
 ```sh
