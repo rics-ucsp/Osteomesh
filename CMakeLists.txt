@@ -40,8 +40,8 @@ INCLUDE_DIRECTORIES(
   ${CMAKE_CURRENT_SOURCE_DIR}
   ${CMAKE_CURRENT_BINARY_DIR})
 
-build_paraview_client(paraview_revised_2
-  TITLE "ParaView (ReVisEd)"
+build_paraview_client(Osteomesh
+  TITLE "Osteomesh (Development version)"
   ORGANIZATION  "Kitware Inc."
   VERSION_MAJOR 1
   VERSION_MINOR 1
